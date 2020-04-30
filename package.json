@@ -38,7 +38,7 @@
     "consolidate": "^0.15.1",
     "cookie-parser": "1.4.4",
     "express": "4.17.1",
-    "jquery": "3.2.1",
+    "jquery": "3.5.0",
     "lodash": "^4.17.11",
     "materialize-css": "^1.0.0",
     "method-override": "3.0.0",
