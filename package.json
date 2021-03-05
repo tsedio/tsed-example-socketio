@@ -23,15 +23,15 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@tsed/ajv": "6.27.0",
-    "@tsed/common": "6.27.0",
-    "@tsed/core": "6.27.0",
-    "@tsed/di": "6.27.0",
-    "@tsed/exceptions": "6.27.0",
-    "@tsed/schema": "6.27.0",
-    "@tsed/json-mapper": "6.27.0",
-    "@tsed/swagger": "6.27.0",
-    "@tsed/socketio": "6.27.0",
+    "@tsed/ajv": "6.28.0",
+    "@tsed/common": "6.28.0",
+    "@tsed/core": "6.28.0",
+    "@tsed/di": "6.28.0",
+    "@tsed/exceptions": "6.28.0",
+    "@tsed/schema": "6.28.0",
+    "@tsed/json-mapper": "6.28.0",
+    "@tsed/swagger": "6.28.0",
+    "@tsed/socketio": "6.28.0",
     "@types/swagger-schema-official": "2.0.21",
     "angular": "1.6.6",
     "body-parser": "1.19.0",
@@ -69,7 +69,7 @@
     "supertest": "6.0.0",
     "ts-node": "9.0.0",
     "tslint": "6.1.3",
-    "typescript": "4.0.2",
+    "typescript": "4.2.3",
     "ejs-lint": "1.1.0"
   }
 }
